@@ -1,0 +1,6 @@
+framework module Pods_FCI {
+  umbrella header "Pods-FCI-umbrella.h"
+
+  export *
+  module * { export * }
+}

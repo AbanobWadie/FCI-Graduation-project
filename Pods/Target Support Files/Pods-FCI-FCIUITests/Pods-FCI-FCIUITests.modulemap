@@ -1,0 +1,6 @@
+framework module Pods_FCI_FCIUITests {
+  umbrella header "Pods-FCI-FCIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
